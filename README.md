@@ -1,6 +1,6 @@
-# Hi Peeps 👋
+# Rohit Maheshwari
 ### 
-I'm Rohit Maheshwari, a enthusiastic Software Engineer that turns coffee into code.
+An enthusiastic Software Engineer that turns coffee into code.
 
 
 <p align="center">
@@ -47,4 +47,9 @@ I'm Rohit Maheshwari, a enthusiastic Software Engineer that turns coffee into co
 ## Love to Connect: 
 
 <a href="https://www.linkedin.com/in/rrohitmaheshwari/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="75" alt="linkedin blue style logo png" /></a>
+  
+  
+[![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=rrohitmaheshwari&theme=radical&bg_color=pinka&hide_border=true&area=true)](https://git.io/rrohitmaheshwari)
+
+
 
