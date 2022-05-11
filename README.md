@@ -10,15 +10,30 @@ I'm Rohit Maheshwari, a enthusiastic Software Engineer that turns coffee into co
 
 ## About Me
 ###
-
+<p>
 • Full-stack developer with 7 years of experience
+</p>
+<p>
 • Completed MS in Software Engineering from San Jose State University
+</p>
+<p>
 • Experience in all stages of the Software development lifecycle
+</p>
+<p>
 • Skilled in C#, Java, JavaScript, NodeJS, ReactJS, Redux, MySQL, MongoDB, PostgreSQL
+</p>
+<p>
 • Also developed websites using PHP, HTML5, CSS, Bootstrap, jQuery
+</p>
+<p>
 • Proficient in the agile working environment with strong problem-solving skills
+</p>
+<p>
 • Expert in RESTful web services, implementing open-source technologies.
+</p>
+<p>
 
+ 
 ## Tools and Technology: 
 ###
 Software Development Engneering 
