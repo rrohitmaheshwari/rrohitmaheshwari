@@ -1,10 +1,17 @@
-# Rohit Maheshwari
-### 
-An enthusiastic Software Engineer that turns coffee into code.
-
+<div align="center">
+  <h1>Rohit Maheshwari</h1>
+</div>
 
 <p align="center">
-<img src="https://cdn.pixabay.com/photo/2018/06/08/00/48/developer-3461405_960_720.png">
+An enthusiastic Software Engineer that turns coffee into code.
+</p>
+
+###
+
+<p align="center">
+  <div align="center">
+<img src="https://cdn.pixabay.com/photo/2018/06/08/00/48/developer-3461405_960_720.png" width="50%">
+   </div>
 </p>
 
 
@@ -48,6 +55,7 @@ An enthusiastic Software Engineer that turns coffee into code.
 
 <a href="https://www.linkedin.com/in/rrohitmaheshwari/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="75" alt="linkedin blue style logo png" /></a>
   
+###
   
 [![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=rrohitmaheshwari&theme=xcode)](https://github.com/rrohitmaheshwari)
 
