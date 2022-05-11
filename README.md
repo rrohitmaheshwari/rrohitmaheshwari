@@ -33,12 +33,6 @@ I'm Rohit Maheshwari, a enthusiastic Software Engineer that turns coffee into co
 </p>
 <p>
 
- 
-## Tools and Technology: 
-###
-Software Development Engneering 
-
-
 
 ## Visitor Count
 
