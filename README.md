@@ -54,10 +54,4 @@ An enthusiastic Software Engineer that turns coffee into code.
 ## Love to Connect: 
 
 <a href="https://www.linkedin.com/in/rrohitmaheshwari/" title="Image from freepnglogos.com"><img src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" width="75" alt="linkedin blue style logo png" /></a>
-  
-###
-  
-[![Rohit's github activity graph](https://activity-graph.herokuapp.com/graph?username=rrohitmaheshwari&theme=xcode)](https://github.com/rrohitmaheshwari)
-
-
 
