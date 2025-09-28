@@ -18,7 +18,7 @@ An enthusiastic Software Engineer that turns coffee into code.
 ## About Me
 ###
 <p>
-• Full-stack developer with 7 years of experience
+• I’m a Senior Software Engineer with 10+ years at Amazon and Microsoft, specializing in distributed systems, APIs, and cloud-native platforms.
 </p>
 <p>
 • Completed MS in Software Engineering from San Jose State University
@@ -27,23 +27,17 @@ An enthusiastic Software Engineer that turns coffee into code.
 • Experience in all stages of the Software development lifecycle
 </p>
 <p>
-• Skilled in C#, Java, JavaScript, NodeJS, ReactJS, Redux, MySQL, MongoDB, PostgreSQL
+• Skilled in Java, C#, JavaScript, NodeJS, ReactJS, Redux, MySQL, Dynamo DB, MongoDB, PostgreSQL
 </p>
 <p>
-• Also developed websites using PHP, HTML5, CSS, Bootstrap, jQuery
+• I’m passionate about building secure, scalable systems, mentoring engineers, and aligning technology with measurable business outcomes.
 </p>
 <p>
-• Proficient in the agile working environment with strong problem-solving skills
-</p>
-<p>
-• Expert in RESTful web services, implementing open-source technologies.
+• Expert in RESTful web services, implementing Distributed Systems over Cloud Platforms.
 </p>
 <p>
 
 
-## Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/rrohitmaheshwari/count.svg)
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrohitmaheshwari&count_private=true&&show_icon=true&theme=monokai)
 
