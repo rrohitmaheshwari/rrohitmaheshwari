@@ -36,7 +36,7 @@ Here are some of my highlighted projects:
 - **[Distributed File System using Blockchain](https://github.com/rrohitmaheshwari/Blockchain-IPFS-DistributedFileSystem)**  
   Built a decentralized application (DApp) with Ethereum Blockchain, IPFS, and Solidity for secure file storage. Integrated Metamask with web3.js for cryptographic key handling. Implemented asymmetric encryption for end-to-end security.
 
-- **ActiveIQ Platform – NetApphttps://github.com/rrohitmaheshwari?tab=repositories**  
+- **ActiveIQ Platform – NetApp**  
   Real-time system health monitoring for 10K+ enterprise customers, reducing downtime incidents by 35%. Developed AWS serverless APIs and Angular portal, improving time-to-market by 25%.
 
 - **IoT Self-Service Portal – Philips**  
