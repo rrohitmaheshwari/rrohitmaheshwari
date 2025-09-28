@@ -3,17 +3,8 @@
 </div>
 
 <p align="center">
-An enthusiastic Software Engineer that turns coffee into code.
+Senior Software Engineer | Distributed Systems & Cloud Platforms | Ex-Microsoft
 </p>
-
-###
-
-<p align="center">
-  <div align="center">
-<img src="https://cdn.pixabay.com/photo/2018/06/08/00/48/developer-3461405_960_720.png" width="50%">
-   </div>
-</p>
-
 
 
 ## About Me
