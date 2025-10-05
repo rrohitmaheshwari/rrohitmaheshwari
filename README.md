@@ -42,10 +42,10 @@ I’m a **Senior Software Engineer** with **10+ years of experience** building *
 - **[Distributed File System using Blockchain](https://github.com/rrohitmaheshwari/Blockchain-IPFS-DistributedFileSystem)**  
   Decentralized app (Ethereum, IPFS, Solidity) for secure file storage. Integrated Metamask with web3.js and implemented asymmetric encryption for end-to-end security.
 
-- **ActiveIQ Platform – NetApp**  
+- **[ActiveIQ Platform](https://www.netapp.com/bluexp/active-iq/) – NetApp**  
   Real-time system health monitoring for enterprise storage fleets, improving uptime **99.9%** and reducing incidents **35%**.
 
-- **IoT Self-Service Portal – Philips**  
+- **[IoT Self-Service Portal](https://www.usa.philips.com/healthcare) – Philips**  
   Secure React + Node.js portal for device lifecycle management, enabling **100K+ device onboardings** and **zero-downtime releases**.
 
 ---
